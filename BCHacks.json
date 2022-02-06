@@ -1,0 +1,322 @@
+{"hackers": [
+  {
+    "id": 1,
+    "name": "Ellie",
+    "age": "20",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "C++",
+      "skill3": "N/A"
+    },
+    "location": "hong kong",
+    "occupation": "software engineer",
+    "time zone": "UTC+8:00",
+    "country": "china",
+    "education": "bachelor's"
+
+  },
+  {
+    "id": 2,
+    "name": "Alyssa",
+    "age": "18",
+    "tech skills": {
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "javascript"
+    },
+    "location": "red deer",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 3,
+    "name": "Paris",
+    "age": "19",
+    "tech skills": {
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "javascript"
+    },
+    "location": "st albert",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },{
+    "id": 4,
+    "name": "Madeline",
+    "age": "22",
+    "tech skills": {
+      "skill1": "Python",
+      "skill2": "Julia",
+      "skill3": "SQL"
+    },
+    "location": "mumbai",
+    "occupation": "student",
+    "time zone": "UTC+5:30",
+    "country": "india",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 5,
+    "name": "Joyce",
+    "age": "27",
+    "tech skills": {
+      "skill1": "flutter",
+      "skill2": "git",
+      "skill3": "javascript"
+    },
+    "location": "hong kong",
+    "occupation": "student",
+    "time zone": "UTC+8:00",
+    "country": "china",
+    "education": "master's"
+    
+  },
+  {
+    "id": 6,
+    "name": "Vanessa",
+    "age": "19",
+    "tech skills": {
+      "skill1": "unity",
+      "skill2": "C#",
+      "skill3": "javascript"
+    },
+    "location": "hong kong",
+    "occupation": "student",
+    "time zone": "UTC+8:00",
+    "country": "china",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 7,
+    "name": "Brittney",
+    "age": "16",
+    "tech skills": {
+      "skill1": "dart",
+      "skill2": "flutter",
+      "skill3": "elixir"
+    },
+    "location": "edmonton",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 8,
+    "name": "Lisa",
+    "age": "18",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "C++",
+      "skill3": "javascript"
+    },
+    "location": "mumbai",
+    "occupation": "student",
+    "time zone": "UTC+5:30",
+    "country": "india",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 9,
+    "name": "Jenny",
+    "age": "25",
+    "tech skills": {
+      "skill1": "canva",
+      "skill2": "figma",
+      "skill3": "css"
+    },
+    "location": "hong kong",
+    "occupation": "student",
+    "time zone": "UTC+8:00",
+    "country": "china",
+    "education": "master's"
+    
+  },
+  {
+    "id": 10,
+    "name": "Anisha",
+    "age": "25",
+    "tech skills": {
+      "skill1": "dart",
+      "skill2": "C++",
+      "skill3": "javascript"
+    },
+    "location": "mumbai",
+    "occupation": "student",
+    "time zone": "UTC+5:30",
+    "country": "india",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 11,
+    "name": "Sam",
+    "age": "20",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "C++",
+      "skill3": "html"
+    },
+    "location": "edmonton",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 12,
+    "name": "Julia",
+    "age": "19",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "C++",
+      "skill3": "dart"
+    },
+    "location": "hong kong",
+    "occupation": "student",
+    "time zone": "UTC+8:00",
+    "country": "china",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 13,
+    "name": "Ashleen",
+    "age": "28",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "flutter",
+      "skill3": "dart"
+    },
+    "location": "edmonton",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 14,
+    "name": "Ramandeep",
+    "age": "25",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "julia",
+      "skill3": "dart"
+    },
+    "location": "mumbai",
+    "occupation": "student",
+    "time zone": "UTC+5:30",
+    "country": "india",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 15,
+    "name": "Emily",
+    "age": "18",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "unity",
+      "skill3": "C#"
+    },
+    "location": "edmonton",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 16,
+    "name": "Laura",
+    "age": "24",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "figma",
+      "skill3": "canva"
+    },
+    "location": "hong kong",
+    "occupation": "student",
+    "time zone": "UTC+8:00",
+    "country": "china",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 17,
+    "name": "Arina",
+    "age": "19",
+    "tech skills": {
+      "skill1": "HTML",
+      "skill2": "CSS",
+      "skill3": "javascript"
+    },
+    "location": "calgary",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 18,
+    "name": "Vivian",
+    "age": "20",
+    "tech skills": {
+      "skill1": "assembly",
+      "skill2": "C++",
+      "skill3": "git"
+    },
+    "location": "edmonton",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 19,
+    "name": "Jacqueline",
+    "age": "24",
+    "tech skills": {
+      "skill1": "dart",
+      "skill2": "flutter",
+      "skill3": "react"
+    },
+    "location": "edmonton",
+    "occupation": "student",
+    "time zone": "UTC-7:00",
+    "country": "canada",
+    "education": "bachelor's"
+    
+  },
+  {
+    "id": 20,
+    "name": "Aaliyah",
+    "age": "23",
+    "tech skills": {
+      "skill1": "python",
+      "skill2": "C++",
+      "skill3": "SQL"
+    },
+    "location": "mumbai",
+    "occupation": "student",
+    "time zone": "UTC+5:30",
+    "country": "india",
+    "education": "bachelor's"
+    
+  }
+]
+}
