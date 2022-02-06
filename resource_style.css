@@ -11,18 +11,17 @@
   }
   
   .container {
-    width: 90%;
-    margin: 50px auto;
+    min-width: 100;
     background: url('https://teachersinspired.com/wp-content/uploads/2020/02/backpacklibrary.jpg');
     min-height: 100%;
     background-size: cover;
-    background-position: center center;
+    background-position: center;
         }
     
   }
   .heading {
     text-align: center;
-    font-size: 30px;
+    font-size: 90px;
     margin-bottom: 50px;
   }
   
@@ -41,11 +40,13 @@
     border: 1px solid #ccc;
     margin-bottom: 50px;
     transition: 0.3s;
+
   }
   
   .card-header {
+    font-size:24px;
     text-align: center;
-    padding: 50px 10px;
+    padding: 30px 10px;
     background:#524A1F;
     color: #fff;
   }
@@ -53,7 +54,7 @@
   .card-body {
     padding: 35px 20px;
     text-align: center;
-    font-size: 18px;
+    font-size: 27px;
     
 
   }
@@ -86,11 +87,13 @@
   
     .heading {
       padding: 20px;
-      font-size: 15px;
+      font-size: 35px;
     }
   
     .card {
       width: 80%;
     }
   }
+  
+
   
