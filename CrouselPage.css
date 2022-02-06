@@ -1,29 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rum+Raisin&family=Yanone+Kaffeesatz&display=swap');
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins',sans-serif;
+  font-family: 'Rum Raisin', sans-serif;
 }
 body{
+  background-image:url("https://images.unsplash.com/photo-1530533718754-001d2668365a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
   display: flex;
-  min-height: 100vh;
+  min-height: 100%;
   align-items: center;
   justify-content: center;
-  background: #f2f2f2;
+  
   position: relative;
 }
-body::before{
-  content: '';
-  position: absolute;
-  width: 100%;
-  background: #0c0a62;
-  clip-path: inset(47% 0 0 0);
-  z-index: -1;
-  height: 100%;
-}
+
 ::selection{
-  background:	#FF676D;
+  background:	#f76469;
   color: #fff;
 }
 .container{
@@ -83,11 +76,11 @@ body::before{
   object-fit: cover;
 }
 .card .content .name{
-  font-size: 20px;
+  font-size: 40px;
   font-weight: 500;
 }
 .card .content .job{
-  font-size: 20px;
+  font-size: 25px;
   color: #FF676D;
 }
 .card .content .media-icons{
@@ -105,13 +98,13 @@ body::before{
   color: #FFF;
   border-radius: 50%;
   border: 2px solid transparent;
-  background: #FF676D;
+  background: #b62090;
   transition: all 0.3s ease;
 }
 .media-icons a:hover{
   color: #FF676D;
-  background-color: #fff;
-  border-color: #FF676D;
+  background-color: rgb(98, 172, 233);
+  border-color: #105677;
 }
  .container .button{
   width: 100%;
